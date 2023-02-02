@@ -40,13 +40,11 @@
 }
 
 .mention {
-  height: 24px;
-  width: 65px;
-  border-radius: 6px;
-  background-color: #d3e1eb;
-  padding: 3px 0;
-  margin-right: 2px;
-  user-select: all;
+  background: rgba(72, 184, 247, 0.15);
+    border-radius: 20px;
+    color: #21619C;
+    padding: 2px 8px;
+    margin: 5px 0;
 }
 
 .mention > span {
