@@ -5,8 +5,8 @@
   "homepage": "https://quill-mention.com/",
   "main": "dist/quill.mention.csj.js",
   "module": "dist/quill.mention.esm.js",
-  "repository": "https://github.com/quill-mention/quill-mention.git",
-  "author": "Fredrik Sundqvist <fsundqvist@gmail.com>",
+  "repository": "https://github.com/AS5ASSIN/quill-mention.git",
+  "author": "Priyank Thakur <priyank.thakur@biz2credit.com>",
   "license": "MIT",
   "files": [
     "dist",
